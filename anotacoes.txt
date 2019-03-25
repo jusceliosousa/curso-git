@@ -1,0 +1,14 @@
+instalação do git:
+apt-get install git
+
+
+Interfaces gráficas: Git eye;
+
+Site oficial com a documentação: git-scm.com 
+
+Comandos: 
+
+git help "comando"  == ajuda do comando
+
+git init "nome repositorio"  == cria o repositório inicial
+
