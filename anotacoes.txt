@@ -8,7 +8,12 @@ Site oficial com a documentação: git-scm.com
 
 Comandos: 
 
+git config --global user.email "jusceliosousa@gmail.com"
+git config --global user.email "jusceliosousa@gmail.com"
+
 git help "comando"  == ajuda do comando
-
 git init "nome repositorio"  == cria o repositório inicial
-
+git add "nome arquivo" == adiciona o arquivo ao repositório
+git commit == grava as mudanças para o repositório
+git status == mostra o status da árvore de trabalho 
+git log    == mostra o log dos commit's efetuados
