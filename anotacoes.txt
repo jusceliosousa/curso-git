@@ -1,10 +1,12 @@
-instalação do git:
+##instalação do git:
 apt-get install git
 
 
-Interfaces gráficas: Git eye;
+##Interfaces gráficas: 
+Git eye;
 
-Site oficial com a documentação: git-scm.com 
+##Site oficial com a documentação: 
+git-scm.com 
 
 Comandos: 
 
