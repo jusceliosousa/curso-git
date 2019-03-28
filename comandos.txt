@@ -25,3 +25,18 @@ Mostra a diferença entre commits e branchs
 git idff HEAD~1 
 
 
+git clone <url repositorio>
+Faz o clone de um repositório para a máquina local, a url pode ser https ou chave ssh.
+
+
+git remote -v
+Lista o caminho do repositório remoto
+
+
+git pull 
+baixa as alterações do repositório remoto, mantém o repositório sincronizado com os últimos commits de uma branch
+
+
+git checkout <commit> <file>
+Permite ver como um arquivo ou todo o repositório estava em um determinado commit
+
