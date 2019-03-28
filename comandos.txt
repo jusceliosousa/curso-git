@@ -1,6 +1,7 @@
 git add <lista de arquivos>
 Adiciona os arquivos novos e modificados para o próximo commit
 
+
 git add . 
 
 git commit [-m "Message"]
@@ -16,3 +17,11 @@ mostra o log dos commit's efetuados, com a mensagem e os arquivos adicionados e 
 
 git push
 Envia ao servidor remoto os commit's que foram feitos, sincroniza o remoto com o local
+
+
+git diff
+Mostra a diferença entre commits e branchs
+
+git idff HEAD~1 
+
+
